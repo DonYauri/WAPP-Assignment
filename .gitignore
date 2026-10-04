@@ -1,0 +1,13 @@
+.vs/
+obj/
+bin/
+packages/
+.kiro/
+
+*.mdf
+*.ldf
+App_Data/Packages/
+
+*:Zone.Identifier
+
+*:Zone.Identifier
